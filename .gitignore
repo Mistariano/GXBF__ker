@@ -97,3 +97,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# protect my private info
+config.py
